@@ -7,11 +7,7 @@
 <h3 align="center"><b>E-commerce Website</b></h3>
 
 <p align="center">
-    <a href="https://sahadcmd.github.io/Ecommerce-Website/" target="_blank">Visit Website</a>
-    ·
-    <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Report Bug</a>
-    ·
-    <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Request Feature</a>
+    <a href="" target="_blank">Visit Website</a>
 </p>
 
 ## About this project 🚀
@@ -58,5 +54,5 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/kartikey-pratap" target="_blank">LinkedIn</a>
   </p>
