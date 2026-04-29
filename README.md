@@ -7,7 +7,7 @@
 <h3 align="center"><b>E-commerce Website</b></h3>
 
 <p align="center">
-    <a href="" target="_blank">Visit Website</a>
+    <a href="https://kartikeycs1.github.io/e-commerce-website/" target="_blank">Visit Website</a>
 </p>
 
 ## About this project 🚀
